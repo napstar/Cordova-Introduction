@@ -1,9 +1,9 @@
-### Tuts+ Tutorial: Introduction to Cordova
+### Envato Tuts+ Tutorial: An Introduction to Cordova
 
 #### Instructor: Wernher-Bel Ancheta
 
-In this article, I'll introduce you to Cordova. We'll start by learning what it is and what sorts of apps you can build with it. And then we'll move on to building a hello world app which showcases the basic workflow when developing apps with Cordova.
+In the previous tutorial of this introduction to Cordova, you learned about what Cordova is, how it works under the hood, and what type of apps you can build with it. In this tutorial, you'll move on to the practical part and actually get your hands dirty by building your first Cordova app.
 
-Source files for the Tuts+ tutorial: [Introduction to Cordova](http://code.tutsplus.com/tutorials/introduction-to-cordova--cms-25146)
+Source files for the Envato Tuts+ tutorial: [An Introduction to Cordova](http://code.tutsplus.com/tutorials/an-introduction-to-cordova-example--cms-25328)
 
-**Read this tutorial on [Tuts+](https://code.tutsplus.com)**.
+**Read this tutorial on [Envato Tuts+](https://code.tutsplus.com)**.
